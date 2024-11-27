@@ -5,3 +5,12 @@ h1, h2 {
 .box p {
     color: firebrick;
 }
+/* parent and chile selections */
+.list li {
+    color: blue;
+}
+
+/* conditional chaining */
+li.done {
+    color: seagreen;
+}
